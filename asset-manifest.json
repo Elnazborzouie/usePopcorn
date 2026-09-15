@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Elnazborzouie/usePopcorn/static/css/main.9a4eb742.css",
+    "main.js": "/Elnazborzouie/usePopcorn/static/js/main.15226232.js",
+    "index.html": "/Elnazborzouie/usePopcorn/index.html",
+    "main.9a4eb742.css.map": "/Elnazborzouie/usePopcorn/static/css/main.9a4eb742.css.map",
+    "main.15226232.js.map": "/Elnazborzouie/usePopcorn/static/js/main.15226232.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a4eb742.css",
+    "static/js/main.15226232.js"
+  ]
+}
